@@ -1,1 +1,7 @@
 fisopfs.c
+fisopfs.h
+save_in_file.c
+save_in_file.h
+pruebas_creacion.c
+pruebas_eliminacion.c
+pruebas_rw.c

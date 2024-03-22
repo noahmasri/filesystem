@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "error_t.h": "c",
+        "types.h": "c",
+        "time.h": "c",
+        "stdio.h": "c",
+        "type_traits": "c",
+        "limits.h": "c"
+    }
+}
